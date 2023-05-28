@@ -1,0 +1,31 @@
+h1 {
+    font-size: 50px;
+    background-color: lightgrey;
+    color: darkslategray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.container ul {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.container ul li {
+    font-size: 36px;
+    list-style: none;
+    display: inline;
+    padding-inline: 5%;
+}
+
+.container ul li a{
+    color: darkslategray;
+    text-decoration: none;
+}
